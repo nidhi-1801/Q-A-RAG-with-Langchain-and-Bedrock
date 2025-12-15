@@ -1,0 +1,9 @@
+boto3 #helps you to connect to all services(invoke the models) in amazon bedrock
+awscli 
+# aws command line interface is a powerful tool that lets you interact with services using 
+# commands in your terminal 
+pypdf
+langchain
+streamlit
+faiss-cpu
+langchain-community
